@@ -1,0 +1,20 @@
+body
+{
+color: rgb(37, 10, 236);
+background: rgb(9, 236, 175);
+}
+.titulo
+{
+     width: 80%;
+    font-size: 22px;
+}
+.nombre_de_objetos
+{
+    color: red;
+}
+#camara
+{
+     border: 2px dashed rgb(247, 219, 7);
+     width: 350px;
+     height: 300px;
+}
